@@ -1,267 +1,267 @@
 ﻿type,term,count
-unigram,can,86620
-unigram,office,71106
-unigram,company,45651
-unigram,home,42588
-unigram,it's,38319
-unigram,don't,33922
-unigram,i'm,32723
-unigram,don,31528
-unigram,good,28272
-unigram,hours,27268
-unigram,take,24223
-unigram,something,23469
+unigram,can,86634
+unigram,office,71121
+unigram,company,45660
+unigram,home,42597
+unigram,it's,38329
+unigram,don't,33930
+unigram,i'm,32732
+unigram,don,31539
+unigram,good,28276
+unigram,hours,27273
+unigram,take,24227
+unigram,something,23473
 unigram,use,21765
-unigram,wfh,20486
-unigram,new,20484
-unigram,find,20443
-unigram,pay,20336
-unigram,team,20293
-unigram,looking,20188
-unigram,companies,20126
-unigram,every,19980
-unigram,never,19947
-unigram,everyone,19855
-unigram,someone,19428
-unigram,rto,18949
-unigram,you're,18199
-unigram,done,17024
-unigram,well,16831
-unigram,better,16795
+unigram,wfh,20492
+unigram,new,20489
+unigram,find,20445
+unigram,pay,20340
+unigram,team,20296
+unigram,looking,20190
+unigram,companies,20129
+unigram,every,19982
+unigram,never,19948
+unigram,everyone,19858
+unigram,someone,19436
+unigram,rto,18950
+unigram,you're,18204
+unigram,done,17029
+unigram,well,16834
+unigram,better,16802
 unigram,experience,16525
-unigram,money,16440
-unigram,person,16313
-unigram,real,15967
-unigram,sure,15595
-unigram,first,15308
-unigram,help,14998
-unigram,always,14982
-unigram,worked,14907
+unigram,money,16443
+unigram,person,16317
+unigram,real,15974
+unigram,sure,15598
+unigram,first,15311
+unigram,help,15001
+unigram,always,14984
+unigram,worked,14910
 unigram,start,14720
-unigram,around,14567
-unigram,without,14521
-unigram,keep,14357
-unigram,manager,13976
-unigram,post,13854
-unigram,long,13778
-unigram,anyone,13725
-unigram,life,13688
-unigram,anything,13615
-unigram,since,13610
-unigram,that's,13527
-unigram,i've,13056
-unigram,look,13022
-unigram,employees,13007
-unigram,different,12785
-unigram,call,12583
-unigram,less,12201
-unigram,lol,12167
-unigram,meetings,12166
-unigram,another,12143
-unigram,desk,12066
-unigram,care,11987
-unigram,etc,11939
+unigram,around,14570
+unigram,without,14523
+unigram,keep,14360
+unigram,manager,13977
+unigram,post,13858
+unigram,long,13780
+unigram,anyone,13727
+unigram,life,13691
+unigram,anything,13619
+unigram,since,13612
+unigram,that's,13530
+unigram,i've,13058
+unigram,look,13028
+unigram,employees,13009
+unigram,different,12786
+unigram,call,12588
+unigram,less,12202
+unigram,meetings,12171
+unigram,lol,12170
+unigram,another,12145
+unigram,desk,12067
+unigram,care,11989
+unigram,etc,11941
 unigram,commute,11869
-unigram,maybe,11794
-unigram,best,11584
+unigram,maybe,11797
+unigram,best,11585
 unigram,used,11503
-unigram,yes,11402
-unigram,trying,11397
-unigram,meeting,11300
-unigram,already,11248
-unigram,hour,11177
-unigram,try,11128
-unigram,come,11118
+unigram,trying,11406
+unigram,yes,11403
+unigram,meeting,11308
+unigram,already,11251
+unigram,hour,11178
+unigram,try,11129
+unigram,come,11124
 unigram,away,11040
-unigram,give,10899
-unigram,last,10794
-unigram,role,10786
+unigram,give,10901
+unigram,last,10795
+unigram,role,10787
 unigram,teams,10750
-unigram,ask,10745
-unigram,else,10659
-unigram,might,10647
-unigram,let,10626
-unigram,full,10617
-unigram,part,10587
-unigram,great,10551
-unigram,business,10535
-unigram,boss,10308
-unigram,lunch,10278
+unigram,ask,10747
+unigram,else,10664
+unigram,might,10649
+unigram,let,10627
+unigram,full,10623
+unigram,part,10590
+unigram,great,10552
+unigram,business,10540
+unigram,boss,10310
+unigram,lunch,10279
+unigram,fully,10195
 unigram,yeah,10194
-unigram,fully,10194
-unigram,enough,10186
-unigram,point,10151
-unigram,remotely,10144
-unigram,live,10007
-unigram,probably,9988
-unigram,tell,9863
-unigram,started,9861
-unigram,leave,9833
-unigram,everything,9803
-unigram,data,9801
-unigram,paid,9782
-unigram,nothing,9732
-unigram,using,9716
-unigram,management,9614
-unigram,hard,9556
-unigram,love,9531
-unigram,though,9492
+unigram,enough,10188
+unigram,point,10152
+unigram,remotely,10146
+unigram,live,10008
+unigram,probably,9993
+unigram,tell,9867
+unigram,started,9862
+unigram,leave,9841
+unigram,everything,9807
+unigram,data,9802
+unigram,paid,9784
+unigram,nothing,9733
+unigram,using,9717
+unigram,management,9618
+unigram,hard,9560
+unigram,love,9536
+unigram,though,9493
 unigram,makes,9483
-unigram,small,9358
-unigram,hybrid,9281
-unigram,can't,9206
-unigram,put,9188
+unigram,small,9359
+unigram,hybrid,9283
+unigram,can't,9210
+unigram,put,9189
 unigram,workers,9180
-unigram,move,9149
-unigram,may,9137
-unigram,sounds,8976
-unigram,end,8875
-unigram,works,8850
-unigram,making,8845
-unigram,problem,8838
+unigram,move,9152
+unigram,may,9141
+unigram,sounds,8979
+unigram,end,8877
+unigram,works,8856
+unigram,making,8846
+unigram,problem,8845
 unigram,set,8793
-unigram,bad,8710
-unigram,laptop,8686
-unigram,least,8661
-unigram,doesn't,8621
-unigram,stuff,8546
-unigram,ever,8488
+unigram,bad,8711
+unigram,laptop,8687
+unigram,least,8662
+unigram,doesn't,8622
+unigram,stuff,8549
+unigram,ever,8492
 unigram,next,8487
-unigram,big,8458
-unigram,talk,8371
+unigram,big,8460
+unigram,talk,8372
+unigram,reason,8322
 unigram,instead,8321
-unigram,reason,8318
 unigram,phone,8307
-unigram,support,8290
-unigram,calls,8271
-unigram,please,8264
-unigram,free,8179
-unigram,either,8178
+unigram,support,8292
+unigram,calls,8272
+unigram,please,8269
+unigram,free,8181
+unigram,either,8179
 unigram,little,8172
-unigram,doesn,8160
-unigram,email,8133
+unigram,doesn,8162
+unigram,email,8135
 unigram,minutes,8122
 unigram,usually,8120
-unigram,space,8105
-unigram,employee,8076
-unigram,personal,8069
+unigram,space,8106
+unigram,employee,8079
+unigram,personal,8070
 unigram,online,8068
-unigram,times,8051
+unigram,times,8052
 unigram,check,7980
-unigram,sometimes,7922
+unigram,sometimes,7924
 unigram,place,7917
-unigram,mean,7907
+unigram,mean,7910
 unigram,roles,7870
-unigram,reddit,7862
-unigram,open,7768
-unigram,state,7669
-unigram,change,7637
+unigram,reddit,7865
+unigram,open,7770
+unigram,state,7673
+unigram,change,7641
 unigram,per,7628
 unigram,went,7413
-unigram,kind,7266
+unigram,kind,7268
 unigram,understand,7254
-unigram,didn't,7249
-unigram,didn,7248
-unigram,stay,7242
-unigram,employer,7168
+unigram,didn,7251
+unigram,didn't,7251
+unigram,stay,7245
+unigram,employer,7169
 unigram,position,7165
-unigram,house,7150
-unigram,honestly,7056
-unigram,especially,7044
-unigram,hiring,7001
+unigram,house,7152
+unigram,honestly,7057
+unigram,especially,7046
+unigram,hiring,7002
 unigram,productivity,6947
-unigram,old,6934
+unigram,old,6935
 unigram,scam,6922
-unigram,offer,6914
-unigram,thanks,6893
-unigram,worth,6873
+unigram,offer,6915
+unigram,thanks,6898
+unigram,worth,6874
 unigram,room,6867
-unigram,others,6857
+unigram,others,6859
 unigram,based,6838
 unigram,skills,6817
-unigram,told,6769
+unigram,told,6772
 unigram,literally,6756
-unigram,definitely,6699
-unigram,issue,6694
-unigram,i'd,6693
-unigram,kids,6669
+unigram,definitely,6702
+unigram,issue,6700
+unigram,i'd,6695
+unigram,kids,6671
 unigram,thank,6653
-unigram,isn't,6600
-unigram,social,6569
-unigram,needed,6545
-unigram,outside,6540
-unigram,saying,6529
+unigram,isn't,6602
+unigram,social,6570
+unigram,needed,6547
+unigram,outside,6541
+unigram,saying,6531
 unigram,covid,6514
-unigram,shit,6465
+unigram,shit,6468
 unigram,bit,6463
-unigram,tasks,6462
+unigram,tasks,6463
 unigram,they're,6386
-unigram,side,6312
-unigram,project,6309
+unigram,project,6314
+unigram,side,6313
 unigram,taking,6289
-unigram,quit,6271
-unigram,found,6269
+unigram,quit,6275
+unigram,found,6270
 unigram,unless,6243
-unigram,often,6236
+unigram,often,6237
 unigram,ago,6231
-unigram,isn,6227
-unigram,needs,6198
+unigram,isn,6230
+unigram,needs,6201
 unigram,country,6137
-unigram,extra,6124
-unigram,exactly,6107
-unigram,share,6030
+unigram,extra,6127
+unigram,exactly,6109
+unigram,share,6031
 unigram,walk,6028
-unigram,whole,5991
-unigram,easy,5957
+unigram,whole,5992
+unigram,easy,5960
 unigram,contract,5957
 unigram,family,5954
-unigram,tax,5931
+unigram,tax,5933
 unigram,break,5913
-unigram,gets,5906
+unigram,gets,5909
 unigram,coffee,5902
-unigram,building,5894
-unigram,nice,5874
-unigram,computer,5872
+unigram,building,5895
+unigram,nice,5876
+unigram,computer,5875
 unigram,salary,5872
-unigram,sub,5828
-unigram,read,5801
+unigram,sub,5831
+unigram,read,5802
+unigram,thought,5742
 unigram,there's,5742
-unigram,thought,5739
-unigram,level,5738
+unigram,level,5740
 unigram,focus,5716
-unigram,means,5705
-unigram,absolutely,5701
-unigram,advice,5670
+unigram,means,5707
+unigram,absolutely,5703
+unigram,advice,5671
 unigram,productive,5666
-unigram,seems,5651
-unigram,account,5627
+unigram,seems,5656
+unigram,account,5628
 unigram,question,5621
-unigram,cost,5607
+unigram,cost,5608
 unigram,case,5600
-unigram,managers,5589
+unigram,managers,5591
 unigram,actual,5583
 unigram,idea,5555
-unigram,market,5551
-unigram,asked,5550
-unigram,almost,5523
+unigram,asked,5554
+unigram,market,5552
+unigram,almost,5524
 unigram,high,5513
-unigram,send,5506
+unigram,send,5508
 unigram,spend,5501
-unigram,asking,5471
-unigram,available,5454
+unigram,asking,5473
+unigram,available,5455
 bigram,don't care,2917
-bigram,real estate,2905
-bigram,home office,2841
-bigram,good luck,2824
-bigram,data entry,2285
+bigram,real estate,2910
+bigram,home office,2842
+bigram,good luck,2825
+bigram,data entry,2286
 bigram,customer service,2078
-bigram,social media,1963
-bigram,can help,1916
-bigram,everyone else,1906
+bigram,social media,1964
+bigram,can help,1917
+bigram,everyone else,1907
 bigram,anyone else,1865
 bigram,makes sense,1843
 bigram,i'm sure,1697
-bigram,someone else,1695
+bigram,someone else,1697
 bigram,office space,1678
 bigram,can find,1640
 bigram,return office,1629
@@ -281,7 +281,7 @@ bigram,long term,1197
 bigram,call center,1177
 bigram,start looking,1144
 bigram,something else,1123
-bigram,customer support,1063
+bigram,customer support,1064
 bigram,pay cut,1055
 bigram,utm medium,1052
 bigram,office can,1051
@@ -289,18 +289,18 @@ bigram,find something,1018
 bigram,remove post,1003
 bigram,rules sub,997
 bigram,please remove,993
-bigram,i'm looking,990
+bigram,i'm looking,991
 bigram,i've seen,985
 bigram,hey everyone,979
 bigram,stay home,973
 bigram,utm campaign,964
-bigram,worked home,931
-bigram,take care,931
-bigram,virtual assistant,929
+bigram,worked home,932
+bigram,take care,932
+bigram,virtual assistant,931
 bigram,coffee shop,910
 bigram,office home,878
 bigram,care don't,862
-bigram,commercial real,856
+bigram,commercial real,857
 bigram,find new,845
 bigram,looking new,841
 bigram,find another,834
@@ -326,13 +326,13 @@ bigram,small talk,745
 bigram,can easily,743
 bigram,can afford,742
 bigram,doesn't mean,737
-bigram,anything else,731
+bigram,anything else,732
 bigram,cost living,727
 bigram,don understand,722
 bigram,doesn mean,721
 bigram,something similar,718
+bigram,something can,710
 bigram,per hour,709
-bigram,something can,709
 bigram,love hear,696
 bigram,company can,694
 bigram,campaign referral,692
@@ -347,7 +347,7 @@ bigram,done home,665
 bigram,medium share,663
 bigram,mouse jiggler,659
 bigram,i'm trying,655
-bigram,trying find,650
+bigram,trying find,651
 bigram,miles away,650
 bigram,productive home,648
 bigram,save money,647
@@ -359,8 +359,8 @@ bigram,find don't,622
 bigram,helping find,615
 bigram,voted rules,613
 bigram,everything else,610
+bigram,message compose,610
 bigram,video calls,609
-bigram,message compose,609
 bigram,please take,608
 bigram,little bit,607
 bigram,since covid,607
@@ -401,7 +401,7 @@ bigram,never heard,544
 bigram,review voted,544
 bigram,rto mandates,542
 bigram,open office,540
-bigram,please contact,537
+bigram,please contact,538
 bigram,keyboard mouse,535
 bigram,another country,535
 bigram,money online,534
@@ -413,15 +413,15 @@ bigram,can handle,527
 bigram,can try,526
 bigram,can keep,525
 bigram,thanks advance,523
-bigram,action performed,522
+bigram,action performed,523
+bigram,bot action,522
 bigram,high school,521
-bigram,bot action,521
-bigram,performed automatically,520
+bigram,performed automatically,521
 bigram,you're looking,517
-bigram,zoom calls,510
+bigram,zoom calls,511
 bigram,currently looking,510
 bigram,can imagine,509
-bigram,project management,506
+bigram,project management,507
 bigram,never worked,504
 bigram,office chair,503
 bigram,software engineer,495
@@ -432,27 +432,27 @@ bigram,background noise,493
 bigram,extra money,491
 bigram,team building,491
 bigram,came across,490
-bigram,somewhere else,488
-bigram,anyone can,488
+bigram,somewhere else,489
+bigram,anyone can,489
+bigram,questions concerns,488
 bigram,it's good,487
-bigram,questions concerns,487
-bigram,office it's,486
+bigram,office it's,487
 bigram,wear tear,484
 bigram,it's easy,481
 bigram,quality life,480
 bigram,earn money,478
 bigram,social life,478
-bigram,post bot,477
+bigram,post bot,478
 bigram,can ask,476
 bigram,trying figure,475
-bigram,moderators subreddit,474
+bigram,moderators subreddit,475
+bigram,automatically please,474
+bigram,contact moderators,474
+bigram,subreddit message,474
 bigram,best luck,473
-bigram,automatically please,473
-bigram,contact moderators,473
-bigram,subreddit message,473
 bigram,hard find,472
 bigram,companies can,472
-bigram,reddit user,470
+bigram,reddit user,471
 bigram,can share,470
 bigram,making sure,464
 bigram,don't give,464
@@ -464,23 +464,23 @@ bigram,office office,461
 bigram,don't pay,460
 bigram,might help,456
 bigram,never office,456
-bigram,old post,455
+bigram,old post,456
 bigram,company policy,452
 bigram,take advantage,452
-bigram,full office,449
+bigram,full office,450
 bigram,office workers,449
 bigram,hybrid office,448
 bigram,looking something,447
 bigram,don give,443
 bigram,game changer,443
+bigram,account new,443
 bigram,around house,442
-bigram,account new,442
-bigram,least old,440
+bigram,least old,441
 bigram,herman miller,440
 bigram,works home,438
 bigram,can check,437
 bigram,can always,435
-bigram,companies don't,432
+bigram,companies don't,433
 bigram,new role,430
 bigram,another state,430
 bigram,it's worth,430
@@ -492,10 +492,10 @@ bigram,walk away,428
 bigram,middle management,428
 bigram,spend hours,426
 bigram,can pay,426
+bigram,accounts least,426
 bigram,don mind,425
-bigram,accounts least,425
 bigram,can look,424
 bigram,every company,423
-bigram,hours office,421
-bigram,coming office,419
-bigram,post automatically,419
+bigram,hours office,422
+bigram,post automatically,420
+bigram,automatically account,420
