@@ -1,0 +1,33 @@
+{
+  "_README": "Editable pain-annotation lexicon v1. This layer FLAGS content, it never filters collection — the corpus in db.sqlite is complete regardless of this file. Edit terms/themes and rerun `python3 collector.py --phase export` to re-annotate. Matching: case-insensitive, word-boundary, multi-word phrases tolerate flexible whitespace.",
+
+  "burnout_exhaustion": ["burnout", "burned out", "burnt out", "burning out", "exhausted", "exhaustion", "drained", "running on empty", "no energy", "can't keep up", "cant keep up", "overwhelmed"],
+
+  "isolation_loneliness": ["lonely", "loneliness", "isolated", "isolating", "isolation", "no friends", "disconnected", "cabin fever", "talk to no one", "don't see anyone", "dont see anyone", "miss people", "miss the office"],
+
+  "mental_health": ["depressed", "depression", "anxiety", "anxious", "panic attack", "mental health", "therapy", "therapist", "crying", "cried", "breakdown", "falling apart", "losing my mind", "losing it"],
+
+  "overwork_no_boundaries": ["overworked", "overworking", "always on", "can't switch off", "cant switch off", "can't disconnect", "cant disconnect", "no boundaries", "after hours", "unpaid overtime", "working weekends", "working nights", "24/7", "no work life balance", "work life balance"],
+
+  "micromanagement_surveillance": ["micromanage", "micromanaged", "micromanager", "micromanagement", "micromanaging", "surveillance", "monitoring software", "monitored", "tracking software", "screen tracking", "screenshots", "keystroke", "keylogger", "mouse jiggler", "bossware", "spying", "spyware", "activity status", "green dot", "big brother"],
+
+  "rto_forced_return": ["rto", "return to office", "return-to-office", "back to the office", "back into the office", "office mandate", "hybrid mandate", "forced back", "forcing us back", "in-office requirement", "badge swipe", "badging"],
+
+  "job_insecurity_layoffs": ["laid off", "layoff", "layoffs", "fired", "let go", "terminated", "pip", "performance improvement plan", "job security", "replaced by", "outsourced", "offshored", "restructuring", "downsizing", "job market", "can't find a job", "cant find a job", "no offers", "ghosted"],
+
+  "meetings_zoom_fatigue": ["zoom fatigue", "too many meetings", "back to back meetings", "back-to-back meetings", "meeting overload", "camera on", "cameras on", "pointless meetings", "could have been an email", "couldve been an email"],
+
+  "focus_distraction_motivation": ["can't focus", "cant focus", "can't concentrate", "cant concentrate", "distracted", "procrastinating", "procrastination", "no motivation", "unmotivated", "adhd", "doomscrolling", "brain fog"],
+
+  "career_stagnation_invisibility": ["passed over", "passed up", "no promotion", "promotion", "invisible", "overlooked", "proximity bias", "career growth", "no growth", "stuck in my career", "dead end", "dead-end", "stagnant", "stagnating"],
+
+  "toxic_management_culture": ["toxic", "toxic boss", "toxic manager", "toxic culture", "bad manager", "terrible boss", "horrible boss", "gaslighting", "gaslit", "blame", "blamed", "thrown under the bus", "ignored", "left out", "out of the loop", "excluded", "disrespected", "unappreciated", "undervalued", "no trust", "don't trust", "dont trust"],
+
+  "physical_health": ["back pain", "neck pain", "eye strain", "headache", "headaches", "migraine", "sedentary", "weight gain", "gained weight", "insomnia", "can't sleep", "cant sleep", "sleep schedule", "rsi", "carpal tunnel"],
+
+  "financial_pay": ["underpaid", "pay cut", "salary cut", "low pay", "lowball", "lowballed", "cost of living", "can't afford", "cant afford", "paycheck to paycheck", "location-based pay", "location based pay"],
+
+  "quitting_escape": ["quit", "quitting", "resign", "resigned", "resignation", "two weeks notice", "walked out", "want out", "get out", "escape", "looking to leave", "one more year", "can't do this anymore", "cant do this anymore", "can't take it", "cant take it"],
+
+  "general_negative_affect": ["hate", "hated", "hating", "miserable", "misery", "dread", "dreading", "soul crushing", "soul-crushing", "fed up", "sick of", "tired of", "frustrated", "frustrating", "hopeless", "trapped", "stuck", "regret", "worst"]
+}

@@ -1,0 +1,13 @@
+db.sqlite
+db.sqlite-*
+*.gz
+exports/comments.csv
+exports/posts.csv
+data/raw_*.jsonl
+data/archive/
+log_*.txt
+chunk_*.out
+posts.log
+__pycache__/
+exports/pain_comments*.csv
+exports/pain_posts.csv

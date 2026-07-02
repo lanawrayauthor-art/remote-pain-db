@@ -1,0 +1,34 @@
+{
+  "collected_at_utc": "2026-07-02T20:14:57.454731+00:00",
+  "subreddits": "r/remotework, r/WorkFromHome, r/telecommuting",
+  "by_subreddit": {
+    "remotework": {
+      "posts_in_window": 31624,
+      "comments": 410874
+    },
+    "WorkFromHome": {
+      "posts_in_window": 2846,
+      "comments": 22106
+    },
+    "telecommuting": {
+      "posts_in_window": 126,
+      "comments": 79
+    }
+  },
+  "window": "2025-07-02 .. 2026-07-02 (365 days)",
+  "source": "Arctic Shift public research mirror (arctic-shift.photon-reddit.com); direct Reddit blocks datacenter access",
+  "posts_in_window": 34596,
+  "context_posts_outside_window": 1386,
+  "comments_total": 433059,
+  "comments_on_context_threads": 11159,
+  "orphan_thread_ids_unfetched": 2,
+  "unique_authors": 143667,
+  "posts_flagged_pain": 6605,
+  "comments_flagged_pain": 61709,
+  "caveats": [
+    "score/num_comments — снапшоти дзеркала на момент інджесту, не живі значення; для ранжування використовуй як приблизний сигнал, головний актив — текст",
+    "шар болів (pain_*) — похідна розмітка за редагованим pain_lexicon.json, НЕ фільтр збору; корпус повний незалежно від словника",
+    "частина видалених/модерованих дописів зберігає оригінальний текст, захоплений до видалення (див. removed_by_category) — дослідницький бонус",
+    "пагінація overlap-safe з дедуплікацією; теоретична втрата на межах секунд < 0.1%"
+  ]
+}
