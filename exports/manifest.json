@@ -1,30 +1,30 @@
 {
-  "collected_at_utc": "2026-10-12T13:41:19.933585+00:00",
+  "collected_at_utc": "2026-10-19T11:24:39.296056+00:00",
   "subreddits": "r/remotework, r/WorkFromHome, r/telecommuting",
   "by_subreddit": {
     "remotework": {
-      "posts_in_window": 38069,
-      "comments": 451293
+      "posts_in_window": 38371,
+      "comments": 452737
     },
     "WorkFromHome": {
-      "posts_in_window": 3072,
-      "comments": 25150
+      "posts_in_window": 3074,
+      "comments": 25155
     },
     "telecommuting": {
-      "posts_in_window": 147,
+      "posts_in_window": 148,
       "comments": 91
     }
   },
   "window": "2025-07-02 .. 2026-07-02 (365 days)",
   "source": "Arctic Shift public research mirror (arctic-shift.photon-reddit.com); direct Reddit blocks datacenter access",
-  "posts_in_window": 41288,
-  "context_posts_outside_window": 1504,
-  "comments_total": 476534,
-  "comments_on_context_threads": 12193,
-  "orphan_thread_ids_unfetched": 5,
-  "unique_authors": 159260,
-  "posts_flagged_pain": 7515,
-  "comments_flagged_pain": 70000,
+  "posts_in_window": 41593,
+  "context_posts_outside_window": 1511,
+  "comments_total": 477983,
+  "comments_on_context_threads": 12247,
+  "orphan_thread_ids_unfetched": 10,
+  "unique_authors": 159887,
+  "posts_flagged_pain": 7556,
+  "comments_flagged_pain": 70321,
   "caveats": [
     "score/num_comments — снапшоти дзеркала на момент інджесту, не живі значення; для ранжування використовуй як приблизний сигнал, головний актив — текст",
     "шар болів (pain_*) — похідна розмітка за редагованим pain_lexicon.json, НЕ фільтр збору; корпус повний незалежно від словника",
