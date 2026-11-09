@@ -1,13 +1,13 @@
 {
-  "collected_at_utc": "2026-11-02T13:58:30.649712+00:00",
+  "collected_at_utc": "2026-11-09T14:31:06.031239+00:00",
   "subreddits": "r/remotework, r/WorkFromHome, r/telecommuting",
   "by_subreddit": {
     "remotework": {
-      "posts_in_window": 39012,
-      "comments": 456553
+      "posts_in_window": 39298,
+      "comments": 457515
     },
     "WorkFromHome": {
-      "posts_in_window": 3081,
+      "posts_in_window": 3082,
       "comments": 25157
     },
     "telecommuting": {
@@ -17,14 +17,14 @@
   },
   "window": "2025-07-02 .. 2026-07-02 (365 days)",
   "source": "Arctic Shift public research mirror (arctic-shift.photon-reddit.com); direct Reddit blocks datacenter access",
-  "posts_in_window": 42242,
+  "posts_in_window": 42529,
   "context_posts_outside_window": 1512,
-  "comments_total": 481801,
+  "comments_total": 482763,
   "comments_on_context_threads": 12261,
   "orphan_thread_ids_unfetched": 13,
-  "unique_authors": 161228,
-  "posts_flagged_pain": 7644,
-  "comments_flagged_pain": 71130,
+  "unique_authors": 161597,
+  "posts_flagged_pain": 7676,
+  "comments_flagged_pain": 71395,
   "caveats": [
     "score/num_comments — снапшоти дзеркала на момент інджесту, не живі значення; для ранжування використовуй як приблизний сигнал, головний актив — текст",
     "шар болів (pain_*) — похідна розмітка за редагованим pain_lexicon.json, НЕ фільтр збору; корпус повний незалежно від словника",
