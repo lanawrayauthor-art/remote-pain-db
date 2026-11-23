@@ -1,469 +1,469 @@
 ﻿type,term,count
-unigram,can,100637
-unigram,office,77902
-unigram,company,50422
-unigram,home,47199
-unigram,post,44992
-unigram,it's,41906
-unigram,i'm,37022
-unigram,don't,37009
-unigram,don,34563
-unigram,take,32011
-unigram,good,31965
-unigram,hours,30290
-unigram,read,26791
-unigram,something,25957
-unigram,new,24963
-unigram,you're,24922
-unigram,use,23873
-unigram,done,23812
-unigram,looking,23216
-unigram,wfh,22819
-unigram,find,22649
-unigram,pay,22478
-unigram,team,22457
-unigram,every,22286
-unigram,never,22038
-unigram,companies,21814
-unigram,everyone,21706
-unigram,someone,21395
-unigram,rules,20677
-unigram,rto,19554
-unigram,well,18506
-unigram,better,18502
-unigram,experience,18485
-unigram,person,17893
-unigram,money,17862
-unigram,real,17380
-unigram,try,17267
-unigram,first,17083
-unigram,sure,17061
-unigram,subreddit,17000
-unigram,help,16655
-unigram,please,16520
-unigram,always,16507
-unigram,worked,16414
-unigram,start,16337
-unigram,around,16193
-unigram,without,15914
-unigram,keep,15896
-unigram,anyone,15757
-unigram,manager,15400
-unigram,long,15359
-unigram,since,15254
-unigram,life,15183
-unigram,anything,15102
-unigram,that's,14739
-unigram,i've,14660
-unigram,look,14367
-unigram,different,14141
-unigram,check,14135
-unigram,comments,14025
-unigram,employees,13938
-unigram,call,13912
-unigram,reddit,13742
-unigram,remotework,13734
-unigram,commute,13541
-unigram,meetings,13490
-unigram,another,13465
-unigram,desk,13459
-unigram,less,13444
-unigram,lol,13314
-unigram,etc,13202
-unigram,bot,12972
-unigram,maybe,12883
-unigram,care,12877
-unigram,best,12810
-unigram,used,12783
-unigram,thank,12641
-unigram,trying,12618
-unigram,yes,12580
-unigram,meeting,12576
-unigram,message,12559
-unigram,hour,12387
-unigram,already,12357
-unigram,role,12315
-unigram,away,12310
-unigram,teams,12244
-unigram,ask,12213
-unigram,come,12057
-unigram,part,12032
-unigram,give,11941
-unigram,last,11875
-unigram,least,11852
-unigram,else,11841
-unigram,full,11681
-unigram,business,11644
-unigram,great,11640
-unigram,might,11608
-unigram,let,11594
-unigram,lunch,11578
-unigram,remotely,11527
-unigram,fully,11327
-unigram,case,11249
-unigram,enough,11214
-unigram,live,11209
-unigram,sub,11171
-unigram,point,11152
-unigram,boss,11090
-unigram,submit,11060
-unigram,probably,11015
-unigram,leave,10952
-unigram,data,10933
-unigram,yeah,10925
-unigram,started,10861
-unigram,everything,10824
-unigram,love,10822
-unigram,paid,10768
-unigram,nothing,10761
-unigram,tell,10733
-unigram,using,10632
-unigram,app,10597
-unigram,hard,10549
-unigram,management,10494
-unigram,makes,10456
-unigram,hybrid,10455
-unigram,though,10410
-unigram,small,10404
-unigram,put,10332
-unigram,menu,10316
-unigram,acknowledgement,10275
-unigram,tutorial,10253
-unigram,readtherulesapp,10216
-unigram,move,10143
-unigram,may,10123
-unigram,can't,10043
-unigram,workers,9960
-unigram,old,9939
-unigram,sounds,9855
-unigram,laptop,9821
-unigram,set,9813
-unigram,end,9806
-unigram,problem,9696
-unigram,works,9690
-unigram,making,9570
-unigram,bad,9473
-unigram,comment,9465
-unigram,next,9401
-unigram,ever,9387
-unigram,doesn't,9339
-unigram,stuff,9337
-unigram,phone,9247
-unigram,big,9231
-unigram,support,9210
-unigram,instead,9203
-unigram,talk,9159
-unigram,free,9113
-unigram,email,9104
-unigram,little,9101
-unigram,minutes,9093
-unigram,calls,9084
-unigram,usually,9082
-unigram,reason,8965
-unigram,online,8952
-unigram,option,8941
-unigram,personal,8922
-unigram,space,8921
-unigram,either,8918
-unigram,times,8890
-unigram,roles,8883
-unigram,employee,8864
-unigram,doesn,8827
-unigram,sometimes,8778
-unigram,place,8749
-unigram,open,8653
-unigram,mean,8653
-unigram,state,8584
-unigram,account,8509
-unigram,change,8426
-unigram,per,8298
-unigram,house,8235
-unigram,changed,8200
-unigram,went,8158
-unigram,position,8120
-unigram,kind,8092
-unigram,stay,7992
-unigram,employer,7937
-unigram,especially,7878
-unigram,didn,7835
-unigram,understand,7823
-unigram,hiring,7820
-unigram,didn't,7820
-unigram,questions,7744
-unigram,i'd,7732
-unigram,main,7709
-unigram,honestly,7698
-unigram,worth,7679
-unigram,room,7675
-unigram,offer,7639
-unigram,based,7586
-unigram,thanks,7585
-unigram,scam,7548
-unigram,outside,7502
-unigram,skills,7493
-unigram,productivity,7475
-unigram,others,7457
-unigram,told,7418
-unigram,issue,7418
-unigram,social,7377
-unigram,community,7377
-unigram,kids,7375
-unigram,literally,7311
-unigram,definitely,7308
-unigram,needed,7270
-unigram,isn't,7245
-unigram,bit,7226
-unigram,saying,7151
-unigram,tasks,7134
-unigram,project,7106
-unigram,moment,7099
-unigram,side,7006
-unigram,taking,6987
-unigram,country,6961
-unigram,covid,6957
-unigram,shit,6943
-unigram,they're,6937
-unigram,found,6924
-unigram,unless,6896
-unigram,often,6884
-unigram,walk,6863
-unigram,ago,6840
-unigram,break,6807
-unigram,needs,6783
-unigram,automatically,6773
-unigram,advice,6710
-unigram,isn,6698
-unigram,extra,6672
-unigram,family,6665
-unigram,quit,6645
-unigram,whole,6640
-unigram,exactly,6619
-unigram,gets,6603
-unigram,share,6598
-unigram,computer,6562
-unigram,nice,6559
-unigram,contract,6546
-unigram,salary,6538
-unigram,tax,6538
-unigram,understanding,6536
-unigram,coffee,6525
-unigram,easy,6513
-unigram,interview,6448
-bigram,read rules,10624
-bigram,submit acknowledgement,10216
-bigram,please take,5720
-bigram,rules please,5664
-bigram,can try,5658
-bigram,post reddit,5353
-bigram,done can,5339
-bigram,read post,5324
-bigram,remotework comments,5306
-bigram,you're done,5234
-bigram,post sub,5201
-bigram,comment post,5151
-bigram,take moment,5144
-bigram,thank understanding,5133
-bigram,post remotework,5116
-bigram,sub you're,5116
-bigram,community rules,5115
-bigram,rules app,5112
-bigram,message replies,5110
-bigram,app submit,5110
-bigram,case changed,5110
-bigram,subreddit thank,5109
-bigram,main menu,5109
-bigram,guidance check,5109
-bigram,acknowledgement read,5108
-bigram,moment refresh,5108
-bigram,refresh community,5108
-bigram,rules case,5108
-bigram,changed submit,5108
-bigram,acknowledgement clicking,5108
-bigram,clicking read,5108
-bigram,read rules',5108
-bigram,rules' option,5108
-bigram,option main,5108
-bigram,menu subreddit,5108
-bigram,subreddit menu,5108
-bigram,menu comment,5108
-bigram,try submitting,5108
-bigram,submitting post,5108
-bigram,post guidance,5108
-bigram,check tutorial,5108
-bigram,tutorial post,5108
-bigram,reddit readtherulesapp,5108
-bigram,readtherulesapp comments,5108
-bigram,comments fmv,5108
-bigram,fmv tutorial,5108
-bigram,tutorial read,5108
-bigram,post official,5108
-bigram,official readtherulesapp,5108
-bigram,readtherulesapp subreddit,5108
-bigram,understanding sincerely,5108
-bigram,sincerely read-the-rules,5108
-bigram,read-the-rules bot,5108
-bigram,bot message,5108
-bigram,replies monitored,5108
-bigram,remotework read,5106
-bigram,home office,3203
-bigram,good luck,3069
+unigram,can,101145
+unigram,office,78053
+unigram,company,50617
+unigram,home,47315
+unigram,post,46118
+unigram,it's,42026
+unigram,i'm,37111
+unigram,don't,37090
+unigram,don,34642
+unigram,take,32270
+unigram,good,32013
+unigram,hours,30376
+unigram,read,27569
+unigram,something,26031
+unigram,you're,25179
+unigram,new,25124
+unigram,done,24030
+unigram,use,23972
+unigram,looking,23314
+unigram,wfh,22889
+unigram,find,22706
+unigram,pay,22537
+unigram,team,22514
+unigram,every,22330
+unigram,never,22099
+unigram,companies,21861
+unigram,everyone,21759
+unigram,someone,21442
+unigram,rules,21263
+unigram,rto,19567
+unigram,well,18549
+unigram,better,18528
+unigram,experience,18524
+unigram,person,17925
+unigram,money,17883
+unigram,subreddit,17540
+unigram,try,17480
+unigram,real,17399
+unigram,first,17136
+unigram,sure,17094
+unigram,please,16804
+unigram,help,16692
+unigram,always,16536
+unigram,worked,16450
+unigram,start,16366
+unigram,around,16238
+unigram,keep,15953
+unigram,without,15949
+unigram,anyone,15831
+unigram,manager,15455
+unigram,long,15418
+unigram,since,15295
+unigram,life,15197
+unigram,anything,15143
+unigram,that's,14776
+unigram,i've,14704
+unigram,comments,14410
+unigram,look,14385
+unigram,check,14349
+unigram,remotework,14197
+unigram,different,14193
+unigram,employees,14001
+unigram,call,13958
+unigram,reddit,13949
+unigram,commute,13551
+unigram,meetings,13531
+unigram,another,13526
+unigram,desk,13478
+unigram,less,13463
+unigram,lol,13341
+unigram,bot,13242
+unigram,etc,13225
+unigram,maybe,12914
+unigram,care,12899
+unigram,thank,12845
+unigram,message,12843
+unigram,best,12828
+unigram,used,12807
+unigram,trying,12647
+unigram,yes,12620
+unigram,meeting,12617
+unigram,hour,12435
+unigram,already,12409
+unigram,role,12346
+unigram,away,12341
+unigram,teams,12281
+unigram,ask,12261
+unigram,come,12093
+unigram,part,12056
+unigram,give,11973
+unigram,least,11949
+unigram,last,11916
+unigram,else,11879
+unigram,full,11707
+unigram,business,11676
+unigram,great,11666
+unigram,might,11649
+unigram,let,11631
+unigram,lunch,11584
+unigram,remotely,11559
+unigram,case,11465
+unigram,submit,11442
+unigram,fully,11367
+unigram,sub,11364
+unigram,live,11246
+unigram,enough,11246
+unigram,point,11165
+unigram,boss,11122
+unigram,probably,11053
+unigram,leave,10976
+unigram,data,10975
+unigram,yeah,10940
+unigram,started,10878
+unigram,everything,10853
+unigram,love,10844
+unigram,app,10814
+unigram,paid,10805
+unigram,nothing,10775
+unigram,tell,10772
+unigram,menu,10702
+unigram,acknowledgement,10658
+unigram,using,10652
+unigram,tutorial,10635
+unigram,readtherulesapp,10598
+unigram,hard,10573
+unigram,management,10501
+unigram,hybrid,10485
+unigram,makes,10481
+unigram,small,10445
+unigram,though,10432
+unigram,put,10344
+unigram,move,10229
+unigram,may,10148
+unigram,can't,10065
+unigram,old,10031
+unigram,workers,9983
+unigram,laptop,9903
+unigram,sounds,9870
+unigram,set,9846
+unigram,end,9824
+unigram,problem,9731
+unigram,works,9718
+unigram,comment,9663
+unigram,making,9584
+unigram,bad,9481
+unigram,next,9417
+unigram,ever,9405
+unigram,doesn't,9376
+unigram,phone,9366
+unigram,stuff,9359
+unigram,big,9259
+unigram,support,9225
+unigram,instead,9218
+unigram,talk,9173
+unigram,option,9150
+unigram,free,9140
+unigram,usually,9134
+unigram,little,9131
+unigram,email,9125
+unigram,calls,9122
+unigram,minutes,9119
+unigram,online,8999
+unigram,reason,8979
+unigram,either,8943
+unigram,personal,8941
+unigram,space,8941
+unigram,times,8918
+unigram,employee,8903
+unigram,roles,8901
+unigram,doesn,8856
+unigram,sometimes,8799
+unigram,state,8779
+unigram,place,8773
+unigram,mean,8679
+unigram,open,8674
+unigram,account,8598
+unigram,change,8444
+unigram,changed,8394
+unigram,per,8312
+unigram,house,8270
+unigram,went,8190
+unigram,position,8128
+unigram,kind,8104
+unigram,stay,8016
+unigram,employer,7997
+unigram,main,7912
+unigram,especially,7899
+unigram,didn,7846
+unigram,hiring,7846
+unigram,understand,7842
+unigram,questions,7840
+unigram,didn't,7833
+unigram,i'd,7760
+unigram,honestly,7720
+unigram,worth,7699
+unigram,room,7693
+unigram,offer,7655
+unigram,based,7616
+unigram,thanks,7598
+unigram,scam,7572
+unigram,community,7571
+unigram,outside,7532
+unigram,skills,7504
+unigram,others,7483
+unigram,productivity,7481
+unigram,issue,7452
+unigram,told,7435
+unigram,social,7396
+unigram,kids,7385
+unigram,literally,7325
+unigram,definitely,7320
+unigram,needed,7293
+unigram,moment,7291
+unigram,isn't,7261
+unigram,bit,7250
+unigram,saying,7171
+unigram,tasks,7152
+unigram,project,7117
+unigram,side,7018
+unigram,taking,6998
+unigram,country,6979
+unigram,covid,6976
+unigram,they're,6949
+unigram,shit,6949
+unigram,found,6935
+unigram,automatically,6932
+unigram,often,6913
+unigram,unless,6910
+unigram,walk,6866
+unigram,ago,6862
+unigram,break,6824
+unigram,needs,6792
+unigram,advice,6739
+unigram,understanding,6733
+unigram,isn,6715
+unigram,extra,6690
+unigram,family,6671
+unigram,whole,6662
+unigram,quit,6653
+unigram,exactly,6632
+unigram,gets,6616
+unigram,tax,6614
+unigram,share,6603
+unigram,nice,6580
+unigram,computer,6577
+unigram,coffee,6564
+unigram,salary,6557
+unigram,contract,6551
+unigram,easy,6527
+unigram,interview,6454
+bigram,read rules,11006
+bigram,submit acknowledgement,10598
+bigram,please take,5911
+bigram,rules please,5855
+bigram,can try,5851
+bigram,post reddit,5544
+bigram,done can,5530
+bigram,read post,5516
+bigram,remotework comments,5497
+bigram,you're done,5426
+bigram,post sub,5392
+bigram,comment post,5342
+bigram,take moment,5335
+bigram,thank understanding,5324
+bigram,post remotework,5307
+bigram,sub you're,5307
+bigram,community rules,5306
+bigram,rules app,5303
+bigram,message replies,5301
+bigram,app submit,5301
+bigram,case changed,5301
+bigram,subreddit thank,5300
+bigram,main menu,5300
+bigram,guidance check,5300
+bigram,acknowledgement read,5299
+bigram,moment refresh,5299
+bigram,refresh community,5299
+bigram,rules case,5299
+bigram,changed submit,5299
+bigram,acknowledgement clicking,5299
+bigram,clicking read,5299
+bigram,read rules',5299
+bigram,rules' option,5299
+bigram,option main,5299
+bigram,menu subreddit,5299
+bigram,subreddit menu,5299
+bigram,menu comment,5299
+bigram,try submitting,5299
+bigram,submitting post,5299
+bigram,post guidance,5299
+bigram,check tutorial,5299
+bigram,tutorial post,5299
+bigram,reddit readtherulesapp,5299
+bigram,readtherulesapp comments,5299
+bigram,comments fmv,5299
+bigram,fmv tutorial,5299
+bigram,tutorial read,5299
+bigram,post official,5299
+bigram,official readtherulesapp,5299
+bigram,readtherulesapp subreddit,5299
+bigram,understanding sincerely,5299
+bigram,sincerely read-the-rules,5299
+bigram,read-the-rules bot,5299
+bigram,bot message,5299
+bigram,replies monitored,5299
+bigram,remotework read,5297
+bigram,home office,3217
+bigram,message compose,3106
+bigram,good luck,3074
 bigram,real estate,3060
-bigram,message compose,3027
-bigram,don't care,2995
-bigram,please contact,2927
-bigram,action performed,2913
-bigram,bot action,2912
-bigram,performed automatically,2911
-bigram,questions concerns,2876
-bigram,post bot,2865
-bigram,moderators subreddit,2863
-bigram,automatically please,2861
-bigram,contact moderators,2861
-bigram,subreddit message,2861
-bigram,old post,2844
-bigram,account new,2831
-bigram,least old,2826
-bigram,accounts least,2811
-bigram,post automatically,2805
-bigram,automatically account,2805
-bigram,new participate,2805
-bigram,participate subreddit,2805
-bigram,subreddit accounts,2805
-bigram,compose remotework,2805
-bigram,remotework questions,2805
-bigram,data entry,2500
-bigram,customer service,2335
-bigram,anyone else,2197
-bigram,social media,2104
-bigram,can help,2095
-bigram,everyone else,2082
-bigram,makes sense,2001
-bigram,i'm sure,1846
-bigram,someone else,1833
-bigram,can find,1811
-bigram,office space,1780
-bigram,return office,1746
-bigram,mental health,1744
-bigram,can done,1580
-bigram,entry level,1536
-bigram,can use,1493
-bigram,come office,1493
-bigram,can take,1480
-bigram,every single,1472
-bigram,lunch break,1463
-bigram,utm source,1410
-bigram,don care,1405
-bigram,can tell,1364
-bigram,call center,1327
-bigram,standing desk,1324
-bigram,long term,1306
-bigram,something else,1256
+bigram,please contact,3006
+bigram,don't care,2999
+bigram,action performed,2992
+bigram,bot action,2991
+bigram,performed automatically,2990
+bigram,questions concerns,2955
+bigram,post bot,2944
+bigram,moderators subreddit,2942
+bigram,automatically please,2940
+bigram,contact moderators,2940
+bigram,subreddit message,2940
+bigram,old post,2923
+bigram,account new,2910
+bigram,least old,2905
+bigram,accounts least,2890
+bigram,post automatically,2884
+bigram,automatically account,2884
+bigram,new participate,2884
+bigram,participate subreddit,2884
+bigram,subreddit accounts,2884
+bigram,compose remotework,2884
+bigram,remotework questions,2884
+bigram,data entry,2511
+bigram,customer service,2347
+bigram,anyone else,2211
+bigram,social media,2107
+bigram,can help,2099
+bigram,everyone else,2089
+bigram,makes sense,2007
+bigram,i'm sure,1851
+bigram,someone else,1834
+bigram,can find,1816
+bigram,office space,1781
+bigram,return office,1747
+bigram,mental health,1746
+bigram,can done,1582
+bigram,entry level,1545
+bigram,can use,1504
+bigram,come office,1495
+bigram,can take,1483
+bigram,every single,1473
+bigram,lunch break,1464
+bigram,utm source,1412
+bigram,don care,1407
+bigram,can tell,1370
+bigram,call center,1330
+bigram,standing desk,1325
+bigram,long term,1310
+bigram,something else,1258
 bigram,customer support,1246
-bigram,start looking,1212
-bigram,i'm looking,1200
+bigram,start looking,1214
+bigram,i'm looking,1208
 bigram,pay cut,1195
-bigram,office can,1148
-bigram,find something,1126
-bigram,utm medium,1111
-bigram,hey everyone,1079
-bigram,stay home,1055
-bigram,i've seen,1050
-bigram,take care,1031
-bigram,virtual assistant,1029
-bigram,utm campaign,1024
-bigram,worked home,1012
+bigram,office can,1149
+bigram,find something,1128
+bigram,utm medium,1112
+bigram,hey everyone,1083
+bigram,stay home,1056
+bigram,i've seen,1053
+bigram,take care,1033
+bigram,virtual assistant,1032
+bigram,utm campaign,1025
+bigram,coffee shop,1019
+bigram,worked home,1017
 bigram,remove post,1007
 bigram,rules sub,1002
 bigram,please remove,998
-bigram,coffee shop,993
-bigram,red flag,966
-bigram,office home,953
-bigram,side hustle,930
-bigram,find new,913
-bigram,home can,912
+bigram,red flag,967
+bigram,office home,954
+bigram,side hustle,934
+bigram,find new,914
+bigram,home can,913
 bigram,find another,910
-bigram,looking new,903
+bigram,looking new,906
+bigram,source referral,895
 bigram,life balance,895
-bigram,source referral,894
 bigram,good morning,894
 bigram,commercial real,886
-bigram,i've worked,877
-bigram,i've never,867
+bigram,i've worked,882
+bigram,i've never,870
+bigram,worked office,868
 bigram,care don't,865
-bigram,worked office,865
 bigram,share utm,861
 bigram,offer letter,854
-bigram,small talk,839
-bigram,big deal,829
-bigram,can home,825
+bigram,small talk,844
+bigram,big deal,835
+bigram,can home,828
 bigram,sub already,824
 bigram,mercor list,811
-bigram,cost living,807
+bigram,cost living,811
 bigram,already talk,807
 bigram,care excuses,805
 bigram,can afford,802
 bigram,anything else,800
-bigram,can easily,798
+bigram,doesn't mean,800
+bigram,something similar,799
+bigram,can easily,799
 bigram,don't understand,798
-bigram,doesn't mean,796
 bigram,referral utm,795
-bigram,something similar,793
-bigram,doesn mean,788
+bigram,doesn mean,790
 bigram,walking pad,785
-bigram,don understand,778
-bigram,living room,777
-bigram,something can,776
-bigram,love hear,772
-bigram,company can,765
-bigram,team members,764
-bigram,i'm trying,761
+bigram,something can,780
+bigram,love hear,779
+bigram,don understand,779
+bigram,living room,778
+bigram,company can,767
+bigram,team members,766
+bigram,i'm trying,764
+bigram,per hour,758
 bigram,hours per,755
-bigram,per hour,752
 bigram,mouse jiggler,750
 bigram,trying find,748
-bigram,flexible hours,739
-bigram,can start,735
+bigram,flexible hours,741
+bigram,can start,737
 bigram,campaign referral,733
-bigram,leave house,732
+bigram,leave house,733
 bigram,done home,716
-bigram,productive home,708
+bigram,productive home,709
+bigram,save money,707
 bigram,medium share,705
-bigram,save money,704
-bigram,it's hard,700
-bigram,miles away,684
-bigram,gets done,684
+bigram,it's hard,704
+bigram,miles away,686
+bigram,gets done,686
+bigram,worked remotely,682
 bigram,tips tricks,681
-bigram,worked remotely,680
-bigram,video calls,679
-bigram,little bit,672
-bigram,everything else,663
-bigram,since covid,660
-bigram,doesn't matter,659
+bigram,video calls,680
+bigram,little bit,674
+bigram,everything else,665
+bigram,since covid,663
+bigram,doesn't matter,660
+bigram,another country,647
 bigram,walk around,645
-bigram,another country,643
 bigram,post welcome,642
-bigram,office hours,640
-bigram,health insurance,634
+bigram,office hours,641
+bigram,health insurance,637
 bigram,find board,633
 bigram,find don't,632
 bigram,phone calls,627
 bigram,face face,626
 bigram,i'm sorry,626
 bigram,done remotely,624
+bigram,never heard,622
 bigram,rto mandate,621
-bigram,hour commute,620
-bigram,never heard,619
+bigram,hour commute,621
+bigram,can give,619
 bigram,helping find,617
-bigram,can give,616
 bigram,voted rules,613
 bigram,upper management,608
 bigram,board rules,607
 bigram,violating sub,604
-bigram,currently looking,602
-bigram,office chair,601
+bigram,currently looking,603
+bigram,office chair,602
+bigram,can change,600
 bigram,sub clearly,599
 bigram,talk helping,597
-bigram,can change,597
 bigram,tricks find,596
 bigram,clearly violating,595
 bigram,board giving,595
@@ -471,9 +471,9 @@ bigram,giving tips,595
 bigram,excuses worse,595
 bigram,worse excuse,595
 bigram,excuse please,594
+bigram,keyboard mouse,592
 bigram,thanks advance,591
-bigram,keyboard mouse,590
-bigram,everyone office,582
+bigram,everyone office,583
 bigram,first place,581
 bigram,can keep,580
 bigram,open office,576
@@ -481,11 +481,11 @@ bigram,high school,575
 bigram,can handle,571
 bigram,never worked,571
 bigram,project management,568
+bigram,you're looking,567
 bigram,doesn matter,567
 bigram,software engineer,566
 bigram,money online,565
-bigram,you're looking,563
-bigram,rto mandates,560
+bigram,rto mandates,562
 bigram,welcome join,557
 bigram,good idea,555
 bigram,spend money,554
@@ -494,8 +494,8 @@ bigram,making money,553
 bigram,role future,553
 bigram,social life,551
 bigram,join talk,549
-bigram,team building,547
-bigram,every morning,547
-bigram,talk role,547
-bigram,can imagine,546
-bigram,somewhere else,544
+bigram,can imagine,548
+bigram,somewhere else,548
+bigram,can ask,548
+bigram,team building,548
+bigram,every morning,548
